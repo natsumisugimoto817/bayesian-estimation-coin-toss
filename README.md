@@ -7,7 +7,7 @@
 GitHub上で `notebook.ipynb` を直接開くと、環境によってNotebookプレビューがエラーになる場合がある。  
 その場合は、同梱しているHTML版を参照のこと。
 
-- 表示用HTML: [`[docs/index.html`](https://natsumisugimoto817.github.io/bayesian-estimation-coin-toss/](https://natsumisugimoto817.github.io/bayesian-estimation-coin-toss/)
+- 表示用HTML: [`[docs/index.html`](https://natsumisugimoto817.github.io/bayesian-estimation-coin-toss/)
 - 元Notebook: [`notebook.ipynb`](./notebook.ipynb)
 
 GitHub Pagesを使う場合は、`Settings` → `Pages` → `Branch: main` → `Folder: /docs` を選ぶと、`docs/index.html` をWebページとして公開できます。
